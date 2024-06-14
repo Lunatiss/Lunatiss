@@ -1,4 +1,4 @@
-![Portada](f0d4f228-5c90-4448-b31a-0bc2eb41c855.jpg)
+![Portada](https://github.com/Lunatiss/img.git/f0d4f228-5c90-4448-b31a-0bc2eb41c855.jpg)
 
 ## Hi there 👋, I'm Luna Tissera
 
