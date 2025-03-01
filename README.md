@@ -4,7 +4,8 @@
 
 ## 🚀 What I Do
 
-I’m motivated to understand the world through data, transforming complex and raw data into actionable insights that drive strategic decisions. With proficiency in **Python**, **SQL**, and **Tableau**, I specialize in:
+I’m motivated to understand the world through data, transforming complex and raw data into actionable insights that drive strategic decisions. 
+With proficiency in **Python**, **SQL**, and **Tableau**, I specialize in:
 
 - **Data Management & Transformation**: Using Python libraries like **Pandas** and **NumPy**, I clean, transform, and organize large datasets to extract key patterns and trends.
 - **Data Visualization**: I design interactive dashboards in **Tableau** to present data-driven insights in a clear, actionable way.
@@ -17,7 +18,6 @@ I’m motivated to understand the world through data, transforming complex and r
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
 - **Data Visualization**: Tableau, Power BI
 - **Web Scraping**: Selenium, BeautifulSoup
-- **Version Control**: Git, GitHub
 
 ## 🧩 My Approach
 
